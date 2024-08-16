@@ -128,6 +128,7 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
+   [![nooralbonne's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooralbonne)](https://github.com/nooralbonne/github-readme-stats)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=tokyonight " />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight " />
 
