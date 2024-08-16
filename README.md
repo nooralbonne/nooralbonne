@@ -2,7 +2,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nooralbonne/"><img src="https://img.shields.io/badge/-nooralbonne%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
@@ -15,19 +14,16 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
-
 - 🌱 I’m currently learning **Everything 🤣**
-
 - 👨‍💻 All of my projects are available at [https://github.com/nooralbonne/](https://github.com/nooralbonne)
-
 - 💬 Ask me about **C++, JavaScript, React.js, .Net core7(c#)**
-
 - 📫 How to reach me **nooralbonne@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nooralbonne/](https://www.linkedin.com/in/nooralbonne)
 
-- ⚡ Fun fact **I love to code**
-
+## ✨GitHub Language stats  : 
+   ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
+   
 ## 🌐 Languages and Tools :
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank"> 
@@ -94,8 +90,5 @@
 
 <br/>   
 
-## ✨GitHub Language stats  : 
-   ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
 
 
-//
