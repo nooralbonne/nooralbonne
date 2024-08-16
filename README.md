@@ -128,12 +128,13 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=ambient_gradient" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=ambient_gradient" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=tokyonight " />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight " />
 
 </div>
-
+<div align="center">
+   ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
+</div>
 <br/>  
 
-   ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=ambient_gradient)
 
