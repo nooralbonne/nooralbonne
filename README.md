@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hello, I'm Noor Albonne  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
@@ -10,12 +8,13 @@
 </p>
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
+
 - 🌱 I’m currently learning **Everything 🤣**
 - 👨‍💻 All of my projects are available at [https://github.com/nooralbonne/](https://github.com/nooralbonne)
-- 💬 Ask me about **C++, JavaScript, React.js, .Net core7(c#)**
+- 💬 Ask me about **C++, JavaScript, React.js, .NET Core 7 (C#)**
 - 📫 How to reach me **nooralbonne@hotmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/nooralbonne/](https://www.linkedin.com/in/nooralbonne)
+
 
 ## ✨GitHub Language stats  : 
    ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
