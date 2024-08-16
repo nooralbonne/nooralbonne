@@ -44,7 +44,8 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://th.bing.com/th/id/R.e6239a85850da6bc4010e1f0e1bf1899?rik=Nrw4Q2MMJ%2brWgg&riu=http%3a%2f%2fmustafakarahasan.com%2fwp-content%2fuploads%2f2020%2f03%2f1200px-C_Sharp_logo.svg_-932x1024.png&ehk=%2ftlRIS85BvJqqqvjb9key7qA5c7Y%2bVuqpUoXjCM%2btx8%3d&risl=&pid=ImgRaw&r=0" alt="c#" width="50" height="50"/></code> 
+        <code><img src="![image](https://github.com/user-attachments/assets/08ef0243-d6e5-44e3-845c-551655358a79)
+" alt="c#" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
