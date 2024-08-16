@@ -130,16 +130,10 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight" />
+   ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=dark)
+
 </div>
 
 <br/>  
 
-[![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne)](https://github.com/nooralbonne/github-readme-stats)
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=donut)](https://github.com/nooralbonne/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=pie)](https://github.com/nooralbonne/github-readme-stats)
