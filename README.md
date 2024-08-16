@@ -44,8 +44,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="![image](https://github.com/user-attachments/assets/08ef0243-d6e5-44e3-845c-551655358a79)
-" alt="c#" width="50" height="50"/></code> 
+        <code><img src="https://w7.pngwing.com/pngs/498/19/png-transparent-csharp-original-logo-icon-thumbnail.png" alt="c#" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
