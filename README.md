@@ -7,7 +7,7 @@
    </a>
 </p>
 
-<h3> 🧑 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
+<h3> 👩 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
 
 - 🌱 I’m currently learning **Everything 🤣**
 - 👨‍💻 All of my projects are available at [https://github.com/nooralbonne/](https://github.com/nooralbonne)
