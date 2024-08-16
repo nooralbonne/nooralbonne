@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/nooralbonne" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@saitho-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/nooralbonne" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nooralbonne-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/nooralbonne" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
    </a>
 </p>
