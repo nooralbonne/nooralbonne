@@ -128,11 +128,11 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harikanani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harikanani&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight" />
 </div>
 
 <br/>  
 
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
+![nooralbonne's github activity graph](https://activity-graph.herokuapp.com/graph?username=nooralbonne&theme=nord) 
 
