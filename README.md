@@ -44,7 +44,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://www.designveloper.com/wp-content/uploads/2021/12/Android-app-development-language-5-768x461.png" alt="c#" width="50" height="50"/></code> 
+        <code><img src="https://www.michaelwolf.com.au/images/vendors/square-logo-csharp.jpg" alt="c#" width="50" height="50"/></code> 
     </a>
     <a href="https://devdocs.io/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
