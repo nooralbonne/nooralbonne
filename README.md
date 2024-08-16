@@ -5,7 +5,6 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/Harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="nooralbonne" /></a>&nbsp
 <a href="https://www.linkedin.com/in/nooralbonne/"><img src="https://img.shields.io/badge/-nooralbonne%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://github.com/nooralbonne" target="_blank"><img src="https://img.shields.io/website?label=nooralbonne.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="nooralbonne.github.io" /></a>&nbsp
    <a href="noorlbonne@gmail.com">
