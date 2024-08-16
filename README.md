@@ -134,5 +134,5 @@
 
 <br/>  
 
-![nooralbonne's github activity graph](https://activity-graph.herokuapp.com/graph?username=nooralbonne&theme=nord) 
+[![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne)](https://github.com/nooralbonne/github-readme-stats)
 
