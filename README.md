@@ -8,7 +8,6 @@
     <a href="https://www.linkedin.com/in/nooralbonne" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
    </a>
 </p>
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3> 🧑 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
 - 🌱 I’m currently learning **Everything 🤣**
