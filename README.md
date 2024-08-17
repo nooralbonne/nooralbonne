@@ -13,14 +13,6 @@
    </a>
 </p>
 
-<h3> 👩 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/nooralbonne/](https://github.com/nooralbonne)
-- 💬 Ask me about **C++, JavaScript, React.js, .NET Core7 (C#)**
-- 📫 How to reach me **nooralbonne@hotmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/nooralbonne/](https://www.linkedin.com/in/nooralbonne)
-
-
 ## ✨GitHub Language stats  : 
    ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
    
