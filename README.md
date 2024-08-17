@@ -9,9 +9,8 @@
 
 <h3> 👩 I'm a Programmer, Developer, and Freelance Graphic Designer!!</h3>
 
-- 🌱 I’m currently learning **Everything 🤣**
 - 👨‍💻 All of my projects are available at [https://github.com/nooralbonne/](https://github.com/nooralbonne)
-- 💬 Ask me about **C++, JavaScript, React.js, .NET Core 7 (C#)**
+- 💬 Ask me about **C++, JavaScript, React.js, .NET Core7 (C#)**
 - 📫 How to reach me **nooralbonne@hotmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/nooralbonne/](https://www.linkedin.com/in/nooralbonne)
 
