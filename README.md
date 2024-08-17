@@ -85,9 +85,9 @@
 
 </div>
 
-
+  ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
 <br/>   
-           ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
+         
 
 
 
