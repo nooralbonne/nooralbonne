@@ -84,8 +84,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight" />
 </div>
 
-  ![nooralbonne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight)
- <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight" width="500px" alt="nooralbonne's Top Langs"/>
+</p>
+
  
          
 
