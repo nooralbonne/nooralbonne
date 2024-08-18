@@ -38,9 +38,10 @@
     <a href="https://devdocs.io/cpp/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://www.michaelwolf.com.au/images/vendors/square-logo-csharp.jpg" alt="c#" width="50" height="50"/></code> 
-    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/csharp/csharp-plain.svg" alt="csharp" width="50" height="50"/></code> 
+</a>
+
     <a href="https://devdocs.io/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
     </a>
