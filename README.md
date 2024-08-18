@@ -85,7 +85,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight" width="500%" alt="nooralbonne's Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight" width="50%" alt="nooralbonne's Top Langs"/>
 </p>
 
  
