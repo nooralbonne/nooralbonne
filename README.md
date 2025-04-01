@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Noor Albonne <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Noor Albonne  ![](https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
