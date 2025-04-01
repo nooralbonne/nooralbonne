@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Noor Albonne  </h1>h1></h1>![](https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet)
+<h1 align="center">Hello, I'm Noor Albonne  </h1>![](https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet)
 
 
 <p align="center">
