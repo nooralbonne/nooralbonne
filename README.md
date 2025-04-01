@@ -1,4 +1,4 @@
-<h1>hello, I am Noor Albonne👋</h1>
+<h1 align="center" >Hello, I am Noor Albonne👋</h1>
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
