@@ -3,9 +3,9 @@
 # Hello, I'm Noor Albonne  
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
-</p>
+</p> -->
 
 <div align="center">
 
