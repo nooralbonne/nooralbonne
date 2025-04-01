@@ -1,8 +1,5 @@
-<div align="center">
-
-# Hello, I'm Noor Albonne  
+<div align="center"> # Hello, I'm Noor Albonne  
 ![](https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet)
-
 </div>
 
 
