@@ -1,20 +1,6 @@
-<h1 align="center" >Hello, I am Noor Albonne👋</h1>
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
-</p> 
 
-<div align="center">
 
-<a href="https://discord.com/users/noor.albonne" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/nooralbonne" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
-<a href="mailto:nooralbonne@hotmail.com" target="_blank">
-  <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white">
-</a>
 
 <br>
 
@@ -65,3 +51,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight" width="45%" alt="Top Languages"/>
 </p>
+
+<div align="center">
+
+<a href="https://discord.com/users/noor.albonne" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nooralbonne" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+<a href="mailto:nooralbonne@hotmail.com" target="_blank">
+  <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white">
+</a>
