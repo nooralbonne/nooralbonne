@@ -2,11 +2,6 @@
 
 
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet">
-
-</div>
 
 
 ---
@@ -63,3 +58,8 @@
 <a href="mailto:nooralbonne@hotmail.com" target="_blank">
   <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white">
 </a>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet">
+
+</div>
