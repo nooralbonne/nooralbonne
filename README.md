@@ -7,19 +7,27 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/noor.albonne" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"></a>
-  <a href="https://github.com/nooralbonne" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-@nooralbonne-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nooralbonne" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://slack.com" target="_blank">
-    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&label=Noor%20Al-bonne"></a>
-     <a href="mailto:nooralbonne@hotmail.com" target="_blank">
-    <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white"></a>
-![](https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet)
-</p>
+<div align="center">
+
+<a href="https://discord.com/users/noor.albonne" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nooralbonne" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+<a href="https://slack.com" target="_blank">
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&label=Noor%20Al-bonne">
+</a>
+<a href="mailto:nooralbonne@hotmail.com" target="_blank">
+  <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white">
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nooralbonne&label=PROFILE+VIEWS&color=blueviolet">
+
+</div>
+
 
 ---
 
