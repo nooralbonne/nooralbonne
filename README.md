@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ---
 
 ## 🌐 Languages and Tools:
@@ -39,12 +33,12 @@
 
 ## ✨ GitHub Stats:
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=light" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=light" alt="GitHub Streak"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=tokyonight" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooralbonne&layout=compact&theme=light" width="45%" alt="Top Languages"/>
 </p>
 
 
