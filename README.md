@@ -34,6 +34,10 @@
 ## ✨ GitHub Stats:
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nooralbonne&show_icons=true&theme=light" alt="GitHub Stats"/>
+ 
+</div>
+<div align="center">
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nooralbonne&theme=light" alt="GitHub Streak"/>
 </div>
 
